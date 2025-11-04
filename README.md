@@ -1,2 +1,3 @@
 # MiPrimerRepo
-Aquí podemos hacer la practica de GitHub
+Mi primer Repo local para GitHub
+
